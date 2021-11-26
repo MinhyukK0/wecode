@@ -1,8 +1,8 @@
 # 과제에 사용한 git 명령어
 ---
-* git init \# 깃 초기화 <br>
+* git init _\# 깃 초기화_ <br>
 ---
-* git remote add origin repository주소 \# 원격 깃 주소 추가 <br>
+* git remote add origin repository주소 _\# 원격 깃 주소 추가_ <br>
 ---
 * git branch -m main _\# 현재 브랜치이름을 'main'으로 변경_ <br>
 ---
