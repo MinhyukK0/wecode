@@ -14,5 +14,9 @@
 ---
 * git commit -m '메세지' _\# commit 과 동시에 commit에 담긴 메세지 입력_ <br>
 ---
+* git status _\# 현재 브랜치에 수정 및 commit상태를 확인_ <br>
+___
+* git log _\# local 깃 로그 확인_ <br>
+___
 * git push origin 브랜치이름 _\# 브랜치를 원격 깃에 push_ <br>
 ---
